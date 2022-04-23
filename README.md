@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Notes keeper React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Purpose
+
+This app was made to understand how react props,hooks,components and other elements work together . You can easily add and remove notes in this app . In the process I also learnt about react smaterial components
+
